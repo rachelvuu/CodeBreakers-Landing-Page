@@ -1707,3 +1707,7 @@ h1, h2, h3, h4, h5,
       margin: 4px; }
     .with-dots .owl-dots .owl-dot.active span {
       background: #f69314; }
+
+.fa-file-code, .fa-slack {
+  color: #f69314;
+} 
