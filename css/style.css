@@ -1711,3 +1711,11 @@ h1, h2, h3, h4, h5,
 .fa-file-code, .fa-slack {
   color: #f69314;
 } 
+
+.pt-8 {
+  padding-top: 8.52rem !important;
+}
+
+.pt-6 {
+  padding-top: 6.65rem !important;
+}
